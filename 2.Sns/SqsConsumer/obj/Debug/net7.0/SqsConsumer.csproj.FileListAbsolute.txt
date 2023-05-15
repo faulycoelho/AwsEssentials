@@ -1,0 +1,15 @@
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\bin\Debug\net7.0\SqsConsumer.exe
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\bin\Debug\net7.0\SqsConsumer.deps.json
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\bin\Debug\net7.0\SqsConsumer.runtimeconfig.json
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\bin\Debug\net7.0\SqsConsumer.dll
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\bin\Debug\net7.0\SqsConsumer.pdb
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\obj\Debug\net7.0\SqsConsumer.csproj.AssemblyReference.cache
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\obj\Debug\net7.0\SqsConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\obj\Debug\net7.0\SqsConsumer.AssemblyInfoInputs.cache
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\obj\Debug\net7.0\SqsConsumer.AssemblyInfo.cs
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\obj\Debug\net7.0\SqsConsumer.csproj.CoreCompileInputs.cache
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\obj\Debug\net7.0\SqsConsumer.dll
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\obj\Debug\net7.0\refint\SqsConsumer.dll
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\obj\Debug\net7.0\SqsConsumer.pdb
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\obj\Debug\net7.0\SqsConsumer.genruntimeconfig.cache
+C:\Projects\AwsFundamentals\2.Sns\SqsConsumer\obj\Debug\net7.0\ref\SqsConsumer.dll

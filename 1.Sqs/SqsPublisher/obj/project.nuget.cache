@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCKalg1elDdV1p0cH/uMe39ITnuMpwJijjtHKHBhfh5utXZ8J7QRrT/8jy8Lp89RgS7RXefF0M8ZqZL3ZF/pmA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\AwsFundamentals\\1.Sqs\\SqsPublisher\\SqsPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fauly\\.nuget\\packages\\awssdk.core\\3.7.106.35\\awssdk.core.3.7.106.35.nupkg.sha512",
+    "C:\\Users\\Fauly\\.nuget\\packages\\awssdk.sqs\\3.7.102.3\\awssdk.sqs.3.7.102.3.nupkg.sha512"
+  ],
+  "logs": []
+}
