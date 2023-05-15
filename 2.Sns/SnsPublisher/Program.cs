@@ -3,20 +3,20 @@ using Amazon.SimpleNotificationService;
 using Amazon.SimpleNotificationService.Model;
 using SnsPublisher;
 
-var customer = new CustomerCreated
+var customer = new UserCreated
 {
-    id = Guid.NewGuid(),
-    Email = "faulycoelho@gmail.com",
-    FullName = "Fauly Coelho",
-    DateOfBirth = new DateTime(1992, 7, 13),
-    GitHubUsername = "faulycoelho"
+    Id = 1,
+    Email = "jose@gmail.com",
+    Name = "Fauly Coelho",
+    DateOfBirth = new DateTime(1990, 1, 1),
+    Surname = "faulycoelho"
 };
 
 var snsClient = new AmazonSimpleNotificationServiceClient();
 
-var topicArnResponse = await snsClient.FindTopicAsync("customers");
+var topicArnResponse = await snsClient.FindTopicAsync("users");
 
-var publishRequest = new PublishRequest
+var publishRequest = new PublishRequest()
 {
     TopicArn = topicArnResponse.TopicArn,
     Message = JsonSerializer.Serialize(customer),
@@ -26,7 +26,7 @@ var publishRequest = new PublishRequest
             "MessageType", new MessageAttributeValue
             {
                 DataType = "String",
-                StringValue = nameof(CustomerCreated)
+                StringValue = nameof(UserCreated)
             }
         }
     }
