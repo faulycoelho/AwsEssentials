@@ -17,3 +17,4 @@ C:\Projects\AwsFundamentals\3.S3\Assistant\obj\Debug\net7.0\Assistant.pdb
 C:\Projects\AwsFundamentals\3.S3\Assistant\obj\Debug\net7.0\Assistant.genruntimeconfig.cache
 C:\Projects\AwsFundamentals\3.S3\Assistant\obj\Debug\net7.0\ref\Assistant.dll
 C:\Projects\AwsFundamentals\3.S3\Assistant\bin\Debug\net7.0\example.json
+C:\Projects\AwsFundamentals\3.S3\Assistant\bin\Debug\net7.0\AWSSDK.SecretsManager.dll
