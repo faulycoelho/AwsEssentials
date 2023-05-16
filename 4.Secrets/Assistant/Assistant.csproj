@@ -8,14 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AWSSDK.S3" Version="3.7.104.15" />
     <PackageReference Include="AWSSDK.SecretsManager" Version="3.7.102.41" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="example.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 
 </Project>

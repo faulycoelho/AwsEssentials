@@ -15,22 +15,6 @@
           }
         }
       },
-      "AWSSDK.S3/3.7.104.15": {
-        "type": "package",
-        "dependencies": {
-          "AWSSDK.Core": "[3.7.106.36, 4.0.0)"
-        },
-        "compile": {
-          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
       "AWSSDK.SecretsManager/3.7.102.41": {
         "type": "package",
         "dependencies": {
@@ -75,33 +59,6 @@
         "tools/account-management.ps1"
       ]
     },
-    "AWSSDK.S3/3.7.104.15": {
-      "sha512": "6MOTtcZeG6n2/ETSJD2kuvRaMarKB+cwIFzumBNihVRnBciOAFJf/f538F8nvWxss2ZRYhsqeNkzeQEnlKmPrQ==",
-      "type": "package",
-      "path": "awssdk.s3/3.7.104.15",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "analyzers/dotnet/cs/AWSSDK.S3.CodeAnalysis.dll",
-        "awssdk.s3.3.7.104.15.nupkg.sha512",
-        "awssdk.s3.nuspec",
-        "lib/net35/AWSSDK.S3.dll",
-        "lib/net35/AWSSDK.S3.pdb",
-        "lib/net35/AWSSDK.S3.xml",
-        "lib/net45/AWSSDK.S3.dll",
-        "lib/net45/AWSSDK.S3.pdb",
-        "lib/net45/AWSSDK.S3.xml",
-        "lib/netcoreapp3.1/AWSSDK.S3.dll",
-        "lib/netcoreapp3.1/AWSSDK.S3.pdb",
-        "lib/netcoreapp3.1/AWSSDK.S3.xml",
-        "lib/netstandard2.0/AWSSDK.S3.dll",
-        "lib/netstandard2.0/AWSSDK.S3.pdb",
-        "lib/netstandard2.0/AWSSDK.S3.xml",
-        "tools/install.ps1",
-        "tools/uninstall.ps1"
-      ]
-    },
     "AWSSDK.SecretsManager/3.7.102.41": {
       "sha512": "ooZ9MJXMZHS4E7MPVl74jRNTSmv0KGSoRnoLrRfSHaMevM0P5gku4Sot15HWi8v7maSQCJDv+OqtzQNNpX+jxA==",
       "type": "package",
@@ -132,7 +89,6 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "AWSSDK.S3 >= 3.7.104.15",
       "AWSSDK.SecretsManager >= 3.7.102.41"
     ]
   },
@@ -143,11 +99,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AwsFundamentals\\3.S3\\Assistant\\Assistant.csproj",
+      "projectUniqueName": "C:\\Projects\\AwsFundamentals\\4.Secrets\\Assistant\\Assistant.csproj",
       "projectName": "Assistant",
-      "projectPath": "C:\\Projects\\AwsFundamentals\\3.S3\\Assistant\\Assistant.csproj",
+      "projectPath": "C:\\Projects\\AwsFundamentals\\4.Secrets\\Assistant\\Assistant.csproj",
       "packagesPath": "C:\\Users\\Fauly\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\AwsFundamentals\\3.S3\\Assistant\\obj\\",
+      "outputPath": "C:\\Projects\\AwsFundamentals\\4.Secrets\\Assistant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -181,10 +137,6 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
-          "AWSSDK.S3": {
-            "target": "Package",
-            "version": "[3.7.104.15, )"
-          },
           "AWSSDK.SecretsManager": {
             "target": "Package",
             "version": "[3.7.102.41, )"

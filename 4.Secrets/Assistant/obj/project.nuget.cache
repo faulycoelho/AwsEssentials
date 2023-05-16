@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "F7fVJTR2hjOl/4OTmCSDCsjvg380+oFMZdmssh+qJMlYmy1QWw2Sot0AgaUceOGiZfdCCl0hPN87S0zY2zJm2Q==",
+  "dgSpecHash": "iaydVynNhvnwuUIA7OoI4Z98oKjuZlClE7QSjij3N0COx06GTfusa0G0/EZfrro7nKAXwijG/uCTl81/CeHUAw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AwsFundamentals\\3.S3\\Assistant\\Assistant.csproj",
+  "projectFilePath": "C:\\Projects\\AwsFundamentals\\4.Secrets\\Assistant\\Assistant.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fauly\\.nuget\\packages\\awssdk.core\\3.7.106.36\\awssdk.core.3.7.106.36.nupkg.sha512",
-    "C:\\Users\\Fauly\\.nuget\\packages\\awssdk.s3\\3.7.104.15\\awssdk.s3.3.7.104.15.nupkg.sha512",
     "C:\\Users\\Fauly\\.nuget\\packages\\awssdk.secretsmanager\\3.7.102.41\\awssdk.secretsmanager.3.7.102.41.nupkg.sha512"
   ],
   "logs": []
