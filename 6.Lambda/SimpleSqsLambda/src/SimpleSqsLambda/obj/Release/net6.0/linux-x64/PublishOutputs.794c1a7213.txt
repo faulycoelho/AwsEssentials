@@ -1,0 +1,7 @@
+C:\Projects\AwsFundamentals\6.Lambda\SimpleSqsLambda\src\SimpleSqsLambda\bin\Release\net6.0\publish\SimpleSqsLambda.deps.json
+C:\Projects\AwsFundamentals\6.Lambda\SimpleSqsLambda\src\SimpleSqsLambda\bin\Release\net6.0\publish\SimpleSqsLambda.runtimeconfig.json
+C:\Projects\AwsFundamentals\6.Lambda\SimpleSqsLambda\src\SimpleSqsLambda\bin\Release\net6.0\publish\SimpleSqsLambda.pdb
+C:\Projects\AwsFundamentals\6.Lambda\SimpleSqsLambda\src\SimpleSqsLambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Projects\AwsFundamentals\6.Lambda\SimpleSqsLambda\src\SimpleSqsLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Projects\AwsFundamentals\6.Lambda\SimpleSqsLambda\src\SimpleSqsLambda\bin\Release\net6.0\publish\Amazon.Lambda.SQSEvents.dll
+C:\Projects\AwsFundamentals\6.Lambda\SimpleSqsLambda\src\SimpleSqsLambda\bin\Release\net6.0\publish\SimpleSqsLambda.dll

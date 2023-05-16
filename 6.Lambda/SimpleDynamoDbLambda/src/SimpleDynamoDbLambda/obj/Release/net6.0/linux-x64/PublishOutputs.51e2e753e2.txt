@@ -1,0 +1,9 @@
+C:\Projects\AwsFundamentals\6.Lambda\SimpleDynamoDbLambda\src\SimpleDynamoDbLambda\bin\Release\net6.0\publish\SimpleDynamoDbLambda.deps.json
+C:\Projects\AwsFundamentals\6.Lambda\SimpleDynamoDbLambda\src\SimpleDynamoDbLambda\bin\Release\net6.0\publish\SimpleDynamoDbLambda.runtimeconfig.json
+C:\Projects\AwsFundamentals\6.Lambda\SimpleDynamoDbLambda\src\SimpleDynamoDbLambda\bin\Release\net6.0\publish\SimpleDynamoDbLambda.pdb
+C:\Projects\AwsFundamentals\6.Lambda\SimpleDynamoDbLambda\src\SimpleDynamoDbLambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Projects\AwsFundamentals\6.Lambda\SimpleDynamoDbLambda\src\SimpleDynamoDbLambda\bin\Release\net6.0\publish\Amazon.Lambda.DynamoDBEvents.dll
+C:\Projects\AwsFundamentals\6.Lambda\SimpleDynamoDbLambda\src\SimpleDynamoDbLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Projects\AwsFundamentals\6.Lambda\SimpleDynamoDbLambda\src\SimpleDynamoDbLambda\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Projects\AwsFundamentals\6.Lambda\SimpleDynamoDbLambda\src\SimpleDynamoDbLambda\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Projects\AwsFundamentals\6.Lambda\SimpleDynamoDbLambda\src\SimpleDynamoDbLambda\bin\Release\net6.0\publish\SimpleDynamoDbLambda.dll
