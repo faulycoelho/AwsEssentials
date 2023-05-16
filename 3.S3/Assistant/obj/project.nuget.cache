@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDawTCXkxOT9Mr8NJhMMdrGLwmSk7PNHSbNtct9rvDYMrAnVwm1uQYpr7EVBWV4FGWNT5E5XK/ejPfZ9hUh5/w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\AwsFundamentals\\3.S3\\Assistant\\Assistant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fauly\\.nuget\\packages\\awssdk.core\\3.7.106.36\\awssdk.core.3.7.106.36.nupkg.sha512",
+    "C:\\Users\\Fauly\\.nuget\\packages\\awssdk.s3\\3.7.104.15\\awssdk.s3.3.7.104.15.nupkg.sha512"
+  ],
+  "logs": []
+}
